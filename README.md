@@ -3,7 +3,7 @@
 A fast, minimal and developer-friendly command-line tool to generate UUIDs — built with Go.
 
 ![Go Version](https://img.shields.io/badge/Go-1.20+-blue?logo=go)
-![License](https://img.shields.io/github/license/hadzicni/uuidgen-cli)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey)
 
 ---
