@@ -112,7 +112,7 @@ go test ./...
 
 Made with ❤️ by **Nikola Hadzic**
 
-- GitHub: [@nikolahadzic](https://github.com/nikolahadzic)
+- GitHub: [@hadzicni](https://github.com/hadzicni)
 - Website: _coming soon_
 
 ---
