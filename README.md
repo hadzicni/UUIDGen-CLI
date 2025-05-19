@@ -3,7 +3,7 @@
 A tiny and lightning-fast CLI tool to generate one or more **UUIDs (v4)** from your terminal. Built with Go and powered by the official [`github.com/google/uuid`](https://pkg.go.dev/github.com/google/uuid) package.
 
 ![Go Version](https://img.shields.io/badge/Go-1.24+-blue?logo=go)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![License](https://img.shields.io/badge/license-Apache--2.0-blue)
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey)
 
 ---
