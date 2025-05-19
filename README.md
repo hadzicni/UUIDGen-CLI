@@ -1,4 +1,4 @@
-# 🆔 uuidgen-cli
+# 🆔 UUIDGen CLI
 
 A tiny and lightning-fast CLI tool to generate one or more **UUIDs (v4)** from your terminal. Built with Go and powered by the official [`github.com/google/uuid`](https://pkg.go.dev/github.com/google/uuid) package.
 
