@@ -28,7 +28,17 @@ go install github.com/hadzicni/uuidgen-cli/cmd/uuidgen@latest
 
 Make sure `$GOPATH/bin` is in your `$PATH`.
 
-### Option 2: Manual Build
+### Option 2: Manual Build (Windows, Linux, macOS)
+
+#### 🪟 Windows (PowerShell oder CMD)
+
+```powershell
+git clone https://github.com/hadzicni/uuidgen-cli.git
+cd uuidgen-cli/cmd/uuidgen
+go build -o uuidgen.exe
+```
+
+#### 🐧 Linux / 🍏 macOS
 
 ```bash
 git clone https://github.com/hadzicni/uuidgen-cli.git
@@ -46,9 +56,9 @@ uuidgen [flags]
 
 ### Available Flags
 
-| Flag        | Description                         | Default |
-|-------------|-------------------------------------|---------|
-| `-n <int>`  | Number of UUIDs to generate         | `1`     |
+| Flag       | Description                 | Default |
+| ---------- | --------------------------- | ------- |
+| `-n <int>` | Number of UUIDs to generate | `1`     |
 
 ---
 
@@ -78,4 +88,3 @@ GitHub: [@hadzicni](https://github.com/hadzicni)
 ## 📄 License
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](./LICENSE) file for details.
-
